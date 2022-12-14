@@ -25,7 +25,7 @@ Even though the graphs suggest growth in accuracy and a "working" learning proce
 Also I haven't been that successful with other pre-trained models aswell, why I sticked with custom models from there on. \
 ![mobile_net](images/MNL.png)
 
-##### Own Model 1
+##### Own model 1
 Comparably small to medium sized, using kernel size 3. \
 ![own_model_1](images/x1.png) \
 This first model was performing terrible, so i started playing around and:
