@@ -51,7 +51,7 @@ Increased complexity results in similar validation, but worse training accuracie
 #### Own Model 6
 Another rather simple model but used with different learning rates. Increasing the LR ruined the results quite easily, while small reasonable reductions do not have that much of an effect. \
 Significant reductions led to worse  training performances (but nearly as accurate validation performances). The default value seems to be quite fitting for this dataset. \
-Learning rate in the graph: 0.0005
+Learning rate in the graph: 0.0005 \
 ![own_model_3](x6_LR0005.png) \
 
 
