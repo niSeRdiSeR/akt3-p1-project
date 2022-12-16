@@ -63,5 +63,5 @@ This led to an accelerated learning process in the first epochs, but also stalls
 ![own_model_3](images/x4_bs16.png)
 
 
-#### Confusion matrix using model 4
+#### Confusion matrix using model 4 on the test generator
 ![confusion_matrix](images/confusion_matrix.png)
